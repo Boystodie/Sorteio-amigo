@@ -4,7 +4,8 @@ Este é um projeto simples em JavaScript que permite adicionar amigos a uma list
 
 🚀 Funcionalidades
 
-Adicionar amigos a uma lista.
+Adicionar amigos a uma lista!
+
 
 Exibir a lista de amigos cadastrados.
 
